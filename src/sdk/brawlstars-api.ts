@@ -1,5 +1,5 @@
 
-import { Base } from "src/base";
+import { Base } from "../base";
 import { Player } from "../types/player";
 
 export class BrawlStarsAPI extends Base {
