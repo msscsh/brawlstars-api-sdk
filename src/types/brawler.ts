@@ -1,6 +1,6 @@
 import { Gadget } from "./gadget";
 import { Gear } from "./gear";
-import { StarPower } from "./starpower";
+import { StarPower } from "./star-power";
 
 export declare type Brawler = {
     id: number;
@@ -12,4 +12,4 @@ export declare type Brawler = {
     gears: Gear[];
     starPowers: StarPower[];
     gadgets: Gadget[];
-}
+};

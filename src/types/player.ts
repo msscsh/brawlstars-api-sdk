@@ -20,4 +20,4 @@ export declare type Player = {
     bestTimeAsBigBrawler: number;
     club: Club;
     brawlers: Brawler[];
-}
+};
