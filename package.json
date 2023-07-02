@@ -1,6 +1,6 @@
 {
   "name": "brawlstars-api-sdk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A library that can be used as access to the official Supercell API. It presents the necessary structure to operate with the data returned by it, such as calling public endpoints and creating types.",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
